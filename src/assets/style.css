@@ -16,6 +16,7 @@ body {
 }
 
 header {
+  
   height: 75px;
   background-color: #c00000;
   /* width: 100%; */
@@ -57,7 +58,7 @@ header ul li a:hover {
   transition: all 0.2s ease;
 }
 
-header ul li a.active {
+header ul li a.active{
   border: 2px solid #fff;
   background-color: #fff;
   color: #c00000;
